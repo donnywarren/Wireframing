@@ -12,25 +12,26 @@ You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_
 
 ## Setup
 
-1. Inside the `vssl_mockup` folder, create an `index.html` file.  Make sure to create it on the same level as the `img` folder and `mockup.png`.  
-2. Add the boilerplate to your html file.
-3. Open `index.html` in your browser.
+1. Wireframe the site! You have a full mockup for this one, so we want you to work backwards for this one to get comfortable with the wireframing tools. What would this mockup look like as a wireframe?
+2. Inside the `vssl_mockup` folder, create an `index.html` file.  Make sure to create it on the same level as the `img` folder and `mockup.png`.  
+3. Add the boilerplate to your html file.
+4. Open `index.html` in your browser.
 
 ## Exercise
 
 ### Re-create the mockup for VSSL -- HTML First!
 
-1. Your main focus today is to set up the HTML file for this mockup. Take a look at the mockup and think about what tags you'll need and how you'll need to organize the HTML.
+1. Take a look at the mockup and think about what tags you'll need and how you'll need to organize the HTML.
 2. Images - You have been provided with all of the images that you need to create this mockup in the `vssl_mockup/img` folder. Take a look at what you have before you begin.  Think about the relative path for your images when creating them in an `<img>` tag.
 3. Text - Feel free to use `lorem` in place of this real text.  
 
 ![vssl](vssl_mockup/mockup.png)
 
-## Finished Early?
+## Part 2
 
 Create a `style.css` file and link it to `index.html` and get started on the CSS to style it! Remember that you can check if you attached your CSS correctly by adding a background color to the page temporarily.
 
-Below are some resources to help you with positioning.
+Below are some resources & reminders to help you with positioning.
 
 - [A Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <br>
 - [Equidistance Spacing- examples of failed attempts and wins](https://css-tricks.com/equidistant-objects-with-css/)
