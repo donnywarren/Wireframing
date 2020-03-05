@@ -12,7 +12,7 @@ You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_
 
 ## Setup
 
-1. Wireframe the site! You have a full mockup for this one, so we want you to work backwards for this one to get comfortable with the wireframing tools. What would this mockup look like as a wireframe?
+1. Wireframe the site! You have a full mockup for this one, so we want you to work backwards to get comfortable with the wireframing tools. What would this mockup look like as a wireframe?
 2. Inside the `vssl_mockup` folder, create an `index.html` file.  Make sure to create it on the same level as the `img` folder and `mockup.png`.  
 3. Add the boilerplate to your html file.
 4. Open `index.html` in your browser.
